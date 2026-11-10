@@ -1,0 +1,10 @@
+{
+  "$schema": "../schema/domain.schema.json",
+  "owner": {
+    "github": "9499758-wq"
+  },
+  "description": "Personal start page / dashboard with RSS and hot lists",
+  "records": {
+    "CNAME": "aiym168.github.io"
+  }
+}
